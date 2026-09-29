@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.fusuirc.cn/sitemap.xml
